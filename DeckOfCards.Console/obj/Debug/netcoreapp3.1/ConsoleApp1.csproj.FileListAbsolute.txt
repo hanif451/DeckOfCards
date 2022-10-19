@@ -1,0 +1,14 @@
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\LocalData\HarmonyIT\TransportCanadaCodingChallenge\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

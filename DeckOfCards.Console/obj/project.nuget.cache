@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OG7/pf//QUo1xHJ/ADfR6aRu01u6Mw11XjhxFKGIWPQwjSAxawxsvtYhON3eB4ASWNOc1I7/05LThV/MqkCSfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HeshaamHanif\\Downloads\\Coding\\DeckOfCardsCoding\\DeckOfCards.Console\\DeckOfCard.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HeshaamHanif\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

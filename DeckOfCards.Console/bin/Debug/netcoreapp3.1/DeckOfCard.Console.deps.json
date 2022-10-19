@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DeckOfCard.Console/1.0.0": {
+        "dependencies": {
+          "DeckOfCard.BusinessLayer": "1.0.0"
+        },
+        "runtime": {
+          "DeckOfCard.Console.dll": {}
+        }
+      },
+      "DeckOfCard.BusinessLayer/1.0.0": {
+        "runtime": {
+          "DeckOfCard.BusinessLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeckOfCard.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeckOfCard.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
